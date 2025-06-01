@@ -1,0 +1,54 @@
+      body {
+            background-color: #8a2be2; 
+            font-family: Arial, sans-serif;
+            text-align: center;
+            align-items: center;
+            min-height: 100%;
+        }
+
+      
+
+        .div6 {
+            color: white;
+            font-size: 3rem;
+            margin: 30px 0 10px;
+        }
+
+        .div5 {
+            color: white;
+            font-size: 1.5rem;
+            margin-bottom: 40px;
+        }
+
+        
+        .image {
+            width:  150px;
+            height: 150px;
+            border:  5px #ffff solid;
+            border-radius: 100px;
+        object-fit: cover;
+
+            
+            
+        }       
+
+        .div3 {
+          border: white 5px solid;
+          height: 200px;
+          width:  60%;
+          margin: auto;
+        }
+        .div2 {
+            display: inline-block;
+            margin: 10px;
+            color: white;
+            font-size: x-large;
+            margin-top: 70px;
+           
+        }
+        .div4 {
+            margin-left: 40px;
+            display: inline-block;
+            font-size: x-large;
+            color: white;
+        }
